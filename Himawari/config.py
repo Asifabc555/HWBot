@@ -42,7 +42,7 @@ class Config(object):
     DEL_CMDS=False
     BAN_STICKER="kans" 
     CERT_PATH=""
-    PORT=8443
+    PORT=5000
     WORKERS=8
     LOAD=""
     NO_LOAD="translation"
